@@ -1,0 +1,67 @@
+body{
+	background-color: #5EC4C8;
+	font-family: 'roboto', sans-serif;
+
+}
+
+.Id-box{
+	width: 360px;
+	height: 620px;
+	margin: auto;
+	margin-top: 20px;
+	background-color: white;
+	border-radius: 3px;
+
+}
+h1{
+	text-align: center;
+	padding-top: 15px;
+}
+
+form{
+	width: 300px;
+	margin-left: 20px;
+
+}
+
+form label {
+	display: flex;
+	margin-top: 20px;
+	font-size: 18px;
+}
+
+form input{
+	width: 100%;
+	padding: 7px;
+	border: none;
+	border: 1px solid gray;
+	border-radius: 6px;
+	outline: none;
+
+}
+ input[type="button"]{
+ 	width: 320px;
+ 	height: 35px;
+ 	margin-top: 20px;
+ 	border: none;
+ 	background-color: #BFA642;
+ 	color: white;
+ 	font-size: 18px;
+
+ }
+ .homer{
+ 	text-align: center;
+ 	color: white;
+ 	font-size: 15px;
+ 	margin-top: 200px;
+ }
+  D{
+ 	margin-top: 5px;
+ 	display: flex;
+	font-size: 18px;
+ }
+  C{
+ 	margin-top: 20px;
+ 	display: flex;
+	font-size: 18px;
+ }
